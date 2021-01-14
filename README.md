@@ -1,4 +1,4 @@
 # DataScienceTTS
-My name is Millicent Schmidt, and I am currently a math and science teacher at a public arts conservatory high school in New Orleans. I am hoping to take my data analysis skills and scientific background and change careers. This year of teaching has been hellish, but I've been thinking about changing careers for a while. I will miss the kids though.
+My name is Millicent Schmidt (she/her or they/them), and I am currently a math and science teacher at a public arts conservatory high school in New Orleans. I am planning to take my data analysis skills and scientific background and change careers. This year of teaching has been hellish, but I've been thinking about changing careers for a while. I will miss the kids though.
 
-I would like to find a remote data science position to afford me more flexibility and work-life balance.
+I would like to find a remote data science position to afford me more flexibility and work-life balance. After listening to the Super Data Science podcast, I am even more committed to this change. I think this will be the right fit for me in so many ways, but hearing about people working to change the world with data science was inspiring and exactly what I want to do. Makes it a little easier to work so hard.
